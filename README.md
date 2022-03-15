@@ -1,4 +1,8 @@
+# Propose With React
+
 : 프로포즈를 하려고 하는데 그냥 사람들 모바일 청첩장 하는것 처럼 나도 뭔가 만들어보려고 한다. 마크업 언어와 css로 대충 만들기 보단, swiper나 여러가지 모듈을 이용하고 나도 요즘 TypeScript를 사용하기 때문에 TypeScript를 곁들인 프로포즈 웹을 만들어 보려고한다. npm creat-react-app 쓰는건 함정임
+
+[실시간 Read me..](https://oil-antique-690.notion.site/propose-with-react-83e97fa1861a44f2941c1094e804758e)
 
 ### 01. [github.io](http://github.io) + my ts app
 
