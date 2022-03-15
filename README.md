@@ -1,8 +1,6 @@
-# Propose With React
+# propose react
 
 : 프로포즈를 하려고 하는데 그냥 사람들 모바일 청첩장 하는것 처럼 나도 뭔가 만들어보려고 한다. 마크업 언어와 css로 대충 만들기 보단, swiper나 여러가지 모듈을 이용하고 나도 요즘 TypeScript를 사용하기 때문에 TypeScript를 곁들인 프로포즈 웹을 만들어 보려고한다. npm creat-react-app 쓰는건 함정임
-
-[실시간 Read me..](https://oil-antique-690.notion.site/propose-with-react-83e97fa1861a44f2941c1094e804758e)
 
 ### 01. [github.io](http://github.io) + my ts app
 
@@ -49,8 +47,31 @@ git을 사용해서 프로젝트를 관리 해보려고 했는데 초장부터 �
 - 만든 프로젝트 경로에서 git init 해주고 `git remote add origin [git@github.com](mailto:git@github.com):{깃헙 아이디}/{깃에다 만든 프로젝트 이름}.git`
 - 깃헙페이지에 디플로이 해준다. `npm run deploy`
 
-잘됬는지 확인하고 싶으면 http://{본인 github id}.github.io/{본인프로젝트명}
+잘됬는지 확인하고 싶으면 http://{본인 github id}.github.io/{본인프로젝트명} 해보면 기본페이지 뜰것
 
-### 02. 어떤 기능을 사용할 것인가
-1. 당연히 resposive 해야지
-2. 모바일 first지만 web에서도 이질감 적게 만들어야지
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6427c24d-2250-411f-ac6f-80d0b7c5e9d4/Untitled.png)
+
+혹시 이거 설정하기전에 본인 프로젝트에 [github.io](http://github.io) 이름변경안한사람있나 내가 그래서 바꿨더니 됨
+
+### 02. 자 어떤기능을 넣고싶은가
+
+1. 멋진거 이쁜거 대단해보이는거
+2. 모바일 first지만 웹도 조금은 고려해주기
+3. 뭔가 react hook 많이 쓸거같은거 (면접에서 떠들수도있으니깐)
+4. 뭔가 스크롤 내릴때 위에 이미지들 사라지거나 fade out 되는거
+5. gallery 무조건이고,
+6. 뭔가 사인할 수 있게 하는게 있었음 좋겠음
+
+### 03. 일정
+
+| 시작일  | 종료일 | 기능 명세 | 문제 | 진행도 |
+| --- | --- | --- | --- | --- |
+| 2022.03.15 | 2022.03.15 | MainPage render |  | 100% |
+| 2022.03.15 |  | Lottie 연결 | 못하고있음 ㅠ_ㅠ |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+### 04. 구현 리스트
+
+- Lottie
+    - Lottie Player로 원하는 animated svg load 하고 싶음
