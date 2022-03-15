@@ -1,0 +1,8 @@
+.MainPage {
+    width: 800px;
+    height: 500px;
+    position: relative;
+    display: flex;
+    background-color: azure;
+}
+  
