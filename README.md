@@ -2,6 +2,8 @@
 
 : 프로포즈를 하려고 하는데 그냥 사람들 모바일 청첩장 하는것 처럼 나도 뭔가 만들어보려고 한다. 마크업 언어와 css로 대충 만들기 보단, swiper나 여러가지 모듈을 이용하고 나도 요즘 TypeScript를 사용하기 때문에 TypeScript를 곁들인 프로포즈 웹을 만들어 보려고한다. npm creat-react-app 쓰는건 함정임
 
+## [Preview](http://ssu2030.github.io/proposeReact/)
+
 ### 01. [github.io](http://github.io) + my ts app
 
 첫번째로 궁금한것은 나는 github.io를 이용하려고하는데 github.io에서도 리액트를 사용할 수 있고,
