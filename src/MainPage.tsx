@@ -1,16 +1,20 @@
+import { Button } from '@mui/material';
 import React from 'react';
+import ToolBar from './component/ToolBar';
 import './style/MainPage.css';
-import  {LottiePlayer}  from '@lottiefiles/lottie-player';
-import Lottie from 'lottie-web';
 
 
 const MainPage: React.FC = () => {       
     
     return (
-    <div className="MainPage">
+        <div className="Wrapper">
+            <div className="MainPage">
+                <ToolBar/>
+                <Button></Button>
 
-	</div>
-  );
+	        </div>
+        </div>
+    );
 }
 
 export default MainPage;
